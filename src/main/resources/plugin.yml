@@ -1,0 +1,6 @@
+name: InvalidTeleportPacketHandler
+version: '${version}'
+main: kr.namemy.invalidteleportpackethandler.HandlerPlugin
+api-version: '1.20'
+depend:
+  - ProtocolLib
